@@ -1,0 +1,1 @@
+CREATE TABLE Medicamentos (id INT NOT NULL AUTO_INCREMENT, nombre VARCHAR(255), precio DOUBLE, labo VARCHAR(255));
